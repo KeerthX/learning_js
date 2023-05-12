@@ -17,5 +17,3 @@ a = 5
 
 1. " / "  &rarr; Single line Comment
 2. " /* */ "  &rarr; Multiline Comment
-
-# Functions and Operators
