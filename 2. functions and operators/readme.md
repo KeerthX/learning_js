@@ -40,3 +40,16 @@ function sumofnumbers(a,b){
 ```
 In the above example *a* and *b* are parameters of the function, <br>
 Parameters could be input values or conditions that need to be set for a function.
+
+## Function In a Function
+
+Calling functions within a function is a valid operation in JavaScript. <br>
+The functions can be a user defined function or functions from modules such as *math*
+
+For Example
+```
+function getFloor(x) {
+    const integer = Math.floor(x)
+    return integer
+}
+```
