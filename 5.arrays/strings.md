@@ -72,3 +72,11 @@ This function gives the index of the first character it encounters
 The **lastIndexof()** function gives the last encountered character
 
 ## String Slicing
+Slice allows us to take out a certain part of a string or a sentence, we pass two parameters, namely **Start Index** and **End Index**
+
+Character gets sliced from the start index to the end index excluding the character in the end index.
+
+**Syntax**
+```
+string.slice(startIndex,endIndex)
+```
